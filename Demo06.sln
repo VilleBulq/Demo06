@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_02", "App_02\App_02.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapapp", "Mapapp\Mapapp.csproj", "{E55ADB90-AF85-4491-B4E1-859BF0C34EA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht_02", "Teht_02\Teht_02.csproj", "{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,26 @@ Global
 		{E55ADB90-AF85-4491-B4E1-859BF0C34EA5}.Release|x86.ActiveCfg = Release|x86
 		{E55ADB90-AF85-4491-B4E1-859BF0C34EA5}.Release|x86.Build.0 = Release|x86
 		{E55ADB90-AF85-4491-B4E1-859BF0C34EA5}.Release|x86.Deploy.0 = Release|x86
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Debug|ARM.Build.0 = Debug|ARM
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Debug|ARM.Deploy.0 = Debug|ARM
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Debug|x64.ActiveCfg = Debug|x64
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Debug|x64.Build.0 = Debug|x64
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Debug|x64.Deploy.0 = Debug|x64
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Debug|x86.ActiveCfg = Debug|x86
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Debug|x86.Build.0 = Debug|x86
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Debug|x86.Deploy.0 = Debug|x86
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Release|Any CPU.ActiveCfg = Release|x86
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Release|ARM.ActiveCfg = Release|ARM
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Release|ARM.Build.0 = Release|ARM
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Release|ARM.Deploy.0 = Release|ARM
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Release|x64.ActiveCfg = Release|x64
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Release|x64.Build.0 = Release|x64
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Release|x64.Deploy.0 = Release|x64
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Release|x86.ActiveCfg = Release|x86
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Release|x86.Build.0 = Release|x86
+		{1F936C92-6B19-4E0E-9CC6-8DB2B7ACE4BE}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
